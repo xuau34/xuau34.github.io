@@ -1,0 +1,20 @@
+# Environment Variables for Vercel Deployment
+# Copy these to your Vercel project settings:
+# https://vercel.com/dashboard/settings/environment-variables
+
+# Site Configuration
+SITE_URL: ""
+# Example: https://xuau34.vercel.app or https://yourcustomdomain.com
+
+# Disqus Comments (if using Disqus)
+# DISQUS_SITENAME: xuau34
+# DISQUS_SHORTNAME: xuau34
+
+# Google Analytics (if using)
+# GOOGLE_ANALYTICS_ID: UA-XXXXXXXX-X or G-XXXXXXXXXX
+
+# Email (if needed)
+EMAIL: ""
+
+# Site Description (override)
+SITE_DESCRIPTION: Mi-way
